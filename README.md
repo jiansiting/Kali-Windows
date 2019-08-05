@@ -1,6 +1,6 @@
 # Kali Windows
 ![avatar](1.jpg)
-作为安全从业主，Kali都是必备工具箱，一款作为黑客常用工具的集合平台深受安全人员喜欢。但是Kali是从BT5转变而来，所以是基于Linux系统集成的。作为很多工控安全从业者因为都是使用Windows平台来做日常支撑平台。那今天介绍一款基于Windows 10打造的Kali渗透工具平台（Kali Windows V1.1），此款平台与Kali Linux并无关系。此工具平台是由Abdal Security Agency实验室资助，同时此款工具平台也是一款免费的工具平台。
+作为安全从业人员，Kali都是必备工具箱，一款作为黑客常用工具的集合平台深受安全人员喜欢。但是Kali是从BT5转变而来，所以是基于Linux系统集成的。作为很多工控安全从业者因为都是使用Windows平台来做日常支撑平台。那今天介绍一款基于Windows 10打造的Kali渗透工具平台（Kali Windows V1.1），此款平台与Kali Linux并无关系。此工具平台是由Abdal Security Agency实验室资助，同时此款工具平台也是一款免费的工具平台。
  
 链接：https://pan.baidu.com/s/17U4zl361f-Xi5EOV3SGuLA 
 提取码：rt6j 
