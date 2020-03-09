@@ -371,6 +371,4 @@ Wireless Attacks
     WirelessNetView.exe
     wpaclean
 
-开机用户名:kali-windos 密码：abdal
-**致谢360的SSOOKING提供资源**
-源链接：kaliwindows.ir
+开机用户名和密码，请联系剑思庭
