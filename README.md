@@ -1,12 +1,8 @@
 # Kali Windows
 ![avatar](1.jpg)
-作为安全从业人员，Kali都是必备工具箱，一款作为黑客常用工具的集合平台深受安全人员喜欢。但是Kali是从BT5转变而来，所以是基于Linux系统集成的。作为很多工控安全从业者因为都是使用Windows平台来做日常支撑平台。那今天介绍一款基于Windows 10打造的Kali渗透工具平台（Kali Windows V1.1），此款平台与Kali Linux并无关系。此工具平台是由Abdal Security Agency实验室资助,一名伊朗小伙EbraSha制作，同时此款工具平台也是一款免费的工具平台。
- 
-链接：https://pan.baidu.com/s/17U4zl361f-Xi5EOV3SGuLA 
-提取码：rt6j 
+作为安全从业人员，Kali都是必备工具箱，一款作为黑客常用工具的集合平台深受安全人员喜欢。但是Kali是从BT5转变而来，所以是基于Linux系统集成的。作为很多工控安全从业者因为都是使用Windows平台来做日常支撑平台。那今天介绍一款基于Windows 10打造的Kali渗透工具平台（Kali Windows V1.1），此款平台与Kali Linux并无关系。此款工具平台是一款免费的工具平台。
 
-下载解压缩为文件名：Kali-Windows-1.1.iso
-这个ISO镜像是已经含有Windows 10的系统的，大家可以直接在电脑开机引导启动直接安装，当然也可以在虚拟机里先安装尝试一下。
+这个镜像是已经含有Windows 10的系统。
 注意：如果是采用vmware虚拟机安装，推荐CPU为2 vCPU，内存为8G，硬盘建议100G，全部安装完毕后将会占用66G。另外有一点比较重要vmware创建虚拟机时候一定要选择BIOS引导不要选择UEFI，否则可能会找不到DVD设备。
 
 进入系统后就可以看到大家喜欢的工具，界面如下：
